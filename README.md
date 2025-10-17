@@ -1,8 +1,7 @@
-# 🎮 GoKiteAi Tile Match Game
+# 🎮 Seismic Tile Match Game
 
 A fun and challenging **tile matching memory game** built with **Vite + React + Tailwind CSS**.  
 Flip the tiles, match the pairs, and beat the timer!  
-Here https://gokite-tile-game.vercel.app/
 ---
 
 ## ✨ Features
